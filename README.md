@@ -1,7 +1,7 @@
 - 👋 Hi, I’m M.S. SIVA PRASAD REDDY
 - 👀 I’m interested in Data analysis and Frontend Development.
-- 🌱 I’m currently learning Frontend Development in detail and Data Science.
-- 💞️ -I'm currently devoloping many projects in Frontend and Data Analysis these will help me in future.
+- 🌱 I’m currently learning Frontend Development in detail.
+- 💞️ -I'm currently devoloping many projects in Frontend and these will help me in future.
 
 
 <!---
